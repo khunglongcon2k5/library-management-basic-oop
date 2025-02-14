@@ -1,0 +1,4 @@
+TextBook|B001|Mathematics 101|John Smith|200.0|Mathematics
+TextBook|B003|History of Vietnam|Nguyen Van A|150.0|History
+ReferenceBook|B002|Advanced Physics |Jane Doe|350.0|Physics
+Total value: 700.0
